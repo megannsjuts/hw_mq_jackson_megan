@@ -52,7 +52,7 @@
       "single",
       "avoid-escape"
     ],
-    "indent": [
+    "tab": [
       2,
       4,
       {
