@@ -1,0 +1,26 @@
+/* mobile-first */
+body {
+
+	background-color: white;
+}
+
+@media (min-width: 675px) {
+  .facet_sidebar {
+    display: none;
+		background-color: blue;
+  }
+}
+
+@media (min-width: 999px) {
+  .facet_sidebar {
+    display: none;
+		background-color: green;
+  }
+}
+
+@media (min-width: 1280px) {
+  .facet_sidebar {
+    display: none;
+		background-color: red;
+  }
+}
