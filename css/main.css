@@ -1,0 +1,19 @@
+/* combo */
+body{
+
+	background-color: white;
+}
+
+@media (min-width: 715px) {
+  .facet_sidebar {
+    display: none;
+		background-color: magenta;
+  }
+}
+
+@media (max-width: 960px) {
+  .facet_sidebar {
+    display: none;
+		background-color: orchid;
+  }
+}
